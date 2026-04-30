@@ -1,0 +1,20 @@
+# GUI
+Pillow>=9.0.0
+
+# Audio recording
+pyaudio>=0.2.11
+
+# Machine Learning / NLP
+torch>=2.0.0
+transformers>=4.35.0
+sentencepiece>=0.1.99
+
+# Speech recognition
+datasets>=2.14.0
+soundfile>=0.12.1
+
+# HTTP requests
+requests>=2.31.0
+
+# Hugging Face utilities (installed automatically but kept explicit)
+huggingface-hub>=0.19.0
